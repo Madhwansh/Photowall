@@ -1,6 +1,2 @@
-//module.exports = {
- // MONGOURI:
-   // "mongodb+srv://madhwanshsrivastava:monu862001@cluster0.fvqvbew.mongodb.net/?retryWrites=true&w=majority",
- // JWT_SECRET: "effegwegw2r",
-};
-//monu862001
+
+Add ur Mongodb database uri here and jwt secret key using module.exports save the password somewhere
